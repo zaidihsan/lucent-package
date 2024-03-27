@@ -5,6 +5,12 @@
 </div>
 
 # Lucent-Package
+[![Latest Version](https://img.shields.io/github/release/manadinho/lucent-package?style=flat-square)](https://github.com/manadinho/lucent-package/releases)
+[![Stars](https://img.shields.io/github/stars/manadinho/lucent-package?style=flat-square)](https://github.com/manadinho/lucent-package/stargazers)
+[![Issues](https://img.shields.io/github/issues/manadinho/lucent-package?style=flat-square)](https://github.com/manadinho/lucent-package/issues)
+[![Forks](https://img.shields.io/github/forks/manadinho/lucent-package?style=flat-square)](https://github.com/manadinho/lucent-package/forks)
+
+
 
 ## Introduction
 
